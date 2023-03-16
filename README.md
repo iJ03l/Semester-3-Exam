@@ -8,7 +8,7 @@
 ## 4. Run the deployment-pipeline-jenkins to create Kubernetes Cluster, create deployments and Services
 
 # Links
-(Portfolio)[]
-(sock-shop)[]
-(Jenkins Server)[http://3.84.87.75:8080]
+[Portfolio](http://portfolio.ij03l.tech)
+[sock-shop](http://sock-shop.ij03l.tech)
+[Jenkins Server](http://3.84.87.75:8080)
 
